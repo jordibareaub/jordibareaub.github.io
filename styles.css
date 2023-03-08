@@ -1,0 +1,23 @@
+/* margin: 4rem auto;  vertical horizontal, auto centra en horizontal*/
+
+#app {
+  margin: 2rem;
+  /*width: 30%;*/
+}
+
+label {
+  font-weight: bold;
+  /*width: 50%;*/
+}
+
+ul {
+  list-style: none;
+  margin: 1rem 0;
+  padding: 0; /* se alinea con el resto de controles */
+}
+
+li {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 3px solid rgb(204, 204, 204);
+}
